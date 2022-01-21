@@ -1,12 +1,14 @@
 ## Hi, I'm Grant 👋
-I like coding and learning and working on little robocars.
 
-I studied psychology with an ICS mintor, and I just completed a data science bootcamp.
+I like coding and learning stuff.
+
+I build robocars for fun, and I have a psychology, computer science, and data science background.
 
 ### Things I'm doing:
 - 🌱 I’m currently learning how to use OpenCV for autonomous localization and navigation.
-- 🔭 I’m currently working on refreshing my personal website. 
+- 🔭 I’m currently working on updating my [personal website](https://grantmoe.github.io/). 
 - 😄 Pronouns: He/Him/His
+- :globe_with_meridians: Website: [grantmoe.com](https://grantmoe.github.io/)
 
 <!--
 - 🌱 I’m currently learning ...
@@ -19,3 +21,4 @@ I studied psychology with an ICS mintor, and I just completed a data science boo
 - 😄 Pronouns:
 - ✨ <-- A star!
 -->
+
