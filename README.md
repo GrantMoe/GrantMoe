@@ -6,7 +6,7 @@ I build robocars for fun, and I have a psychology, computer science, and data sc
 
 ### Things I'm doing:
 - 🌱 I’m currently learning how to use OpenCV for autonomous localization and navigation.
-- 🔭 I’m currently working on updating my [personal website](https://grantmoe.github.io/). 
+- 🔭 I’m currently working on restarting that leetcode grind. 
 - 😄 Pronouns: He/Him/His
 - :globe_with_meridians: Website: [grantmoe.com](https://grantmoe.github.io/)
 
