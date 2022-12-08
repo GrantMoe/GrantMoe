@@ -5,7 +5,7 @@ I like coding and learning stuff.
 I build robocars for fun, and I have a psychology, computer science, and data science background.
 
 ### Things I'm doing:
-- 🔭 I’m currently diving into CNN/LSTM models for time series prediction 
+- 🔭 I’m currently elbow deep in a forex-prediction deep learning project
 - 😄 Pronouns: He/Him/His
 - :globe_with_meridians: Website: [grantmoe.com](https://grantmoe.github.io/)
 
